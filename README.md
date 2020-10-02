@@ -13,3 +13,10 @@ Pick up an algortihm
 Write your code
 Create a pull request
 Star the repository to show your support
+
+
+## Implemented Algorithms:
+ | Name | Description          |
+ | ------------- | ----------- |
+ | Binary Search | Searching Algorithms|
+ | Bubble Sort   | Sorting Algorithms |
